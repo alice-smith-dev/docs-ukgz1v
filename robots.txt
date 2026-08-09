@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-6o58o5.isototo65tzs.lat/sitemap.xml
